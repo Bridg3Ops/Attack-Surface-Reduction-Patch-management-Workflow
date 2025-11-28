@@ -49,6 +49,4 @@ After completing this project, I was able to:
 
 ---
 
-## Sample Artifacts
-*(Include screenshots or code snippets of the GPO settings, PowerShell script, Linux update script, and task schedulers if available)*
 
